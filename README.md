@@ -1,9 +1,7 @@
 
 <p align="center">Formulário de criação de contas para o banco virtual G Bank.</p>
 
-## Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas 
 * JavaScript
-
-## Tecnologias utilizadas no projeto
 * HTML
 * CSS

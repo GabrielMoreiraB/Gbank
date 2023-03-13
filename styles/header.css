@@ -18,6 +18,12 @@
     font-size: 28px;
     font-weight: 700;
     color: var(--azul-claro);
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__logo-inicio img{
+    width: 40px
 }
 
 .cabecalho__logo-final {
